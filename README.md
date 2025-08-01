@@ -26,13 +26,11 @@ A clean, responsive, and elegant Flutter application that provides interns with 
 
 ## 📸 Screenshots
 
-| Login Screen | Dashboard | Rewards Grid |
-|--------------|-----------|--------------|
-| ![login](<img width="1080" height="2400" alt="Screenshot_1754047555" src="https://github.com/user-attachments/assets/34944792-125c-492b-94e8-fc9148d8e7ce" />
-) | ![dashboard](<img width="1080" height="2400" alt="Screenshot_1754046777" src="https://github.com/user-attachments/assets/27ef19cd-8f84-405f-88a9-43617b95b93a" />
-) | ![Announcments](<img width="1080" height="2400" alt="Screenshot_1754047548" src="https://github.com/user-attachments/assets/e305a22a-a97a-49d6-a3da-ab12cb269588" />
-) | ![Leaderboard](<img width="1080" height="2400" alt="Screenshot_1754047547" src="https://github.com/user-attachments/assets/9fe94e2f-b220-40d6-9362-953e39c8cf69" />
-) |
+[login](<img width="1080" height="2400" alt="Screenshot_1754047555" src="https://github.com/user-attachments/assets/34944792-125c-492b-94e8-fc9148d8e7ce" />
+[dashboard](<img width="1080" height="2400" alt="Screenshot_1754046777" src="https://github.com/user-attachments/assets/27ef19cd-8f84-405f-88a9-43617b95b93a" />
+[Announcments](<img width="1080" height="2400" alt="Screenshot_1754047548" src="https://github.com/user-attachments/assets/e305a22a-a97a-49d6-a3da-ab12cb269588" />
+[Leaderboard](<img width="1080" height="2400" alt="Screenshot_1754047547" src="https://github.com/user-attachments/assets/9fe94e2f-b220-40d6-9362-953e39c8cf69" />
+
 
 ---
 
